@@ -1,6 +1,11 @@
 # wordlist
 Make Targtet Account Based Wordlist for brute-force attack 
 
+### ScreenShot
+
+<img src="https://raw.githubusercontent.com/nfs-tech-bd/wordlist/main/Screenshot_2021-04-24-12-01-44-294_com.termux.png">
+
+
 ### Termux Command
 
 
