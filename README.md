@@ -21,4 +21,6 @@ Make Targtet Account Based Wordlist for brute-force attack
 
 ### Single Command
 
-```apt update -y;apt upgrade -y;apt install python2;apt install git;cd;git clone http://github.com/nfs-tech-bd/wordlist;cd wordlist;python2 wordlist.py```
+```
+apt update -y ; apt upgrade -y ; apt install python2 -y ; apt install git -y ; cd ; git clone http://github.com/nfs-tech-bd/wordlist ; cd wordlist ; python2 wordlist.py
+```
